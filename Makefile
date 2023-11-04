@@ -5,7 +5,7 @@ PATTERN ?= lua-gdextension.zip
 
 DIST_URL = lua-gdextension.zip
 
-DIST_IMPORTED_PATHS = LICENSE addons
+DIST_IMPORTED_PATHS = addons
 DIST_URL_DOWNLOAD_OUTPUT = /tmp/lua-gdextension-asset.zip
 
 unzip:
