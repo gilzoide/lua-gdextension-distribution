@@ -2,7 +2,7 @@
 Distribution repository for [Lua GDExtension](https://github.com/gilzoide/lua-gdextension),
 used for submitting it to the [Asset Library](https://godotengine.org/asset-library/asset).
 
-<!-- `Lua GDExtension` asset link: https://godotengine.org/asset-library/asset/TODO -->
+`Lua GDExtension` asset link: https://godotengine.org/asset-library/asset/2330
 
 **WARNING**: the OSX library is not codesigned and will require explicit
 permission from users to run.
